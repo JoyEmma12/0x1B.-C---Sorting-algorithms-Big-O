@@ -1,7 +1,6 @@
 #ifndef __SORT_H
-#include <stddef.h>
 #define __SORT_H
-
+#include <stddef.h>
 /**
  * struct listint_s - Doubly linked list node
  *
